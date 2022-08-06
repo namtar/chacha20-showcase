@@ -12,8 +12,8 @@ In diesem Fall wegen Fefe. http://blog.fefe.de/?ts=9c135c0b
 Üblicherweise verwendet man AES, bei hybriden Verfahren (RSA + AES). Das ist grundsätzlich
 auch nicht verkehrt, da man dann auf Verfahren setzt die erprobt sind.
 Allerdings gibt es bei AES berechtigte Kritikpunkte, die u.a mit den Betriebsmodi zusammenhängen (ECB z.b). Soweit ich weiß.
-Bei AES gibt es zudem viele Möglichkeiten, bei denen in der Entwicklung Fehler gemacht werden können die
-dann die Crypto schwächen. Das ist wohl bei ChaCha20 weniger das Problem.
+Bei AES gibt es zudem viele Möglichkeiten, bei denen in der Entwicklung Fehler gemacht werden können. 
+Das ist wohl bei ChaCha20 weniger das Problem.
 
 siehe auch: https://www.reddit.com/r/crypto/comments/f7c2nv/chacha20_v_aes256/
 
